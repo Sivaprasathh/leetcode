@@ -31,3 +31,4 @@
 |463|[ Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[Java](./solutions/463.%20Island%20Perimeter.java)|5 ms|
 |503|[ Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[Java](./solutions/503.%20Next%20Greater%20Element%20II.java)|8 ms|
 |554|[ Brick Wall](https://leetcode.com/problems/brick-wall/)|[Java](./solutions/554.%20Brick%20Wall.java)|10 ms|
+|938|[ Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Java](./solutions/938.%20Range%20Sum%20of%20BST.java)|1 ms|
